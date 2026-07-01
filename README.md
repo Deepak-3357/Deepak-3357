@@ -14,113 +14,541 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Deepak R</h1>
-<h3 align="center">AI Enthusiast | Software Developer | CSE Student @ SIMATS</h3>
+# 👋 Hi, I'm **Deepak R**
+
+## 🚀 AI Engineer • Software Developer • Computer Vision Enthusiast
+
+> **Building intelligent software solutions through Artificial Intelligence and Software Engineering.**
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deepak-3357&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+[📄 Resume](#) • [💻 Projects](#projects) • [📧 Contact](#contact) • [💼 LinkedIn](https://www.linkedin.com/in/deepak-rajesh-912092354/) • [🐙 GitHub](https://github.com/Deepak-3357)
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🌟 Welcome
 
-🎓 Computer Science Engineering Student at SIMATS, Chennai
+Welcome to my developer portfolio!
 
-💡 Passionate about AI, Machine Learning, Software Development, and Problem Solving
+I'm a Computer Science Engineering student passionate about Artificial Intelligence, Machine Learning, Computer Vision, Software Engineering, Operating Systems, Networking, and Problem Solving.
 
-🏆 Active Hackathon Participant
-
-🌱 Currently learning
-
-- Machine Learning
-- Web Development
-- System Design
-- Data Structures & Algorithms
-
-💬 Ask me about
-
-- Python
-- C++
-- Java
-- SQL
-- OpenCV
+I enjoy transforming ideas into practical software that solves real-world challenges while continuously learning modern technologies.
 
 ---
 
-## 🚀 Tech Stack
+# 📊 Quick Statistics
 
-### Languages
+| Metric                   |                       Value |
+| ------------------------ | --------------------------: |
+| 🎓 Current CGPA          |                         9.0 |
+| 💻 Technical Projects    |                         12+ |
+| 🛠 Technologies          |                         25+ |
+| 💡 Programming Languages |                           5 |
+| 🏆 Hackathons            |                          5+ |
+| 🤖 AI Projects           |                          6+ |
+| 🌐 Technical Domains     | AI • OS • Networking • DBMS |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+---
+
+# 👨‍💻 About Me
+
+## 🎓 Education
+
+**B.E Computer Science and Engineering**
+
+Saveetha School of Engineering (SIMATS)
+
+Expected Graduation: **2029**
+
+---
+
+## 🎯 Career Objective
+
+Motivated Computer Science Engineering student with a strong interest in Artificial Intelligence and Software Engineering.
+
+I enjoy exploring modern technologies through academic learning, technical projects, hackathons, and hands-on experimentation.
+
+Currently seeking internship opportunities where I can contribute to innovative software solutions while expanding my technical expertise.
+
+---
+
+## 💼 Looking For
+
+* Software Development Internship
+* AI / ML Internship
+* Open Source Contributions
+* Research Opportunities
+* Hackathons
+
+---
+
+## 🌍 Interests
+
+* Artificial Intelligence
+* Machine Learning
+* Computer Vision
+* Software Engineering
+* Operating Systems
+* Computer Networks
+* System Design
+* Open Source
+
+---
+
+# 🛠 Technical Skills
+
+## 💻 Programming Languages
+
+| Language | Level |
+| -------- | ----- |
+| Python   | ⭐⭐⭐⭐⭐ |
+| C        | ⭐⭐⭐⭐⭐ |
+| SQL      | ⭐⭐⭐⭐⭐ |
+| C++      | ⭐⭐⭐⭐☆ |
+| Java     | ⭐⭐⭐⭐☆ |
+
+---
+
+## 🤖 Artificial Intelligence & Computer Vision
+
+* Machine Learning
+* OpenCV
+* LBPH Face Recognition
+* Haar Cascade Detection
+* Image Processing
+* Computer Vision
+
+---
+
+## 🗄 Databases
+
+* MySQL
+* JDBC
+* Database Design
+* SQL Queries
+* Relational Database Management
+
+---
+
+## 💻 Operating Systems
+
+* CPU Scheduling
+* Process Management
+* Memory Management
+* Operating Systems
+* Instruction Set Design
+
+---
+
+## 🌐 Networking
+
+* Wi-Fi 6
+* Cisco Packet Tracer
+* TCP/IP
+* OFDMA
+* MU-MIMO
+* QoS
+* Network Optimization
+
+---
+
+## 🧰 Tools & Technologies
+
+* Git
+* GitHub
+* VS Code
+* Qt 6
+* Power BI
+* MySQL
+* Windows
+* Linux (Learning)
+
+---
+
+# 📈 Skill Proficiency
+
+### ✅ Advanced
+
+* Python
+* C
+* SQL
+
+### ⚡ Intermediate
+
+* C++
+* Java
+* Power BI
+
+### 📚 Currently Learning
+
+* Machine Learning
+* JavaScript
+* HTML
+* CSS
+* React
+* Tailwind CSS
+* System Design
+
+---
+
+# 🚀 Projects
+
+## 🤖 Smart Attendance Management System
+
+### Overview
+
+An AI-powered desktop application that automates attendance using real-time facial recognition and liveness detection.
+
+### Features
+
+* Face Recognition
+* LBPH Algorithm
+* Haar Cascade Detection
+* Eye Blink Detection
+* Attendance Logging
+* Attendance Analytics
+* Qt6 GUI
+* CSV Database
 
 ### Technologies
 
-![OpenCV](https://img.shields.io/badge/OpenCV-White?style=for-the-badge&logo=opencv)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+* C++17
+* OpenCV 4.12
+* Qt 6
+* LBPH
+* CSV
+
+### My Contribution
+
+* Recognition Module
+* Attendance Tracking
+* Testing
+* Optimization
 
 ---
 
-## 📌 Featured Projects
+## 📡 Wi-Fi 6 WLAN Architecture
 
-### 🎯 Smart Attendance Management System
+Enterprise Wi-Fi simulation using Cisco Packet Tracer.
 
-- Face Recognition using OpenCV
-- LBPH Algorithm
-- Liveness Detection
-- Attendance Analytics
+### Features
 
----
+* OFDMA
+* MU-MIMO
+* QoS
+* Enterprise WLAN
+* High Density Deployment
 
-### 📡 Wi-Fi 6 WLAN Architecture
+### Technologies
 
-- Cisco Packet Tracer
-- Network Optimization
-- QoS
-- Wireless Configuration
-
----
-
-### 🔒 Secure File Management System
-
-- Java
-- MySQL
-- AES Encryption
-- Role Based Access
+* Cisco Packet Tracer
+* Wi-Fi 6
 
 ---
 
-## 📈 GitHub Stats
+## 🔒 Secure File Management System
 
-![](https://github-readme-stats.vercel.app/api?username=Deepak-3357&show_icons=true&theme=tokyonight)
+Secure desktop application implementing modern encryption techniques.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deepak-3357&theme=tokyonight)
+### Features
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-3357&layout=compact&theme=tokyonight)
+* AES-256 Encryption
+* SHA-256 Integrity
+* RBAC
+* Secure Storage
 
----
+### Technologies
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Deepak-3357&theme=algolia&margin-w=15)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-rajesh-912092354/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Deepak-3357)
+* Java
+* MySQL
 
 ---
 
-## ⚡ Fun Fact
+## ⚙ Responsive CPU Task Scheduler
 
-> "I love building AI-powered applications and participating in hackathons that solve real-world problems."
+Machine Learning assisted CPU Scheduling simulator.
+
+### Algorithms
+
+* FCFS
+* SJF
+* Round Robin
+* Priority Scheduling
+
+### Features
+
+* Performance Dashboard
+* ML Assisted Comparison
+* Interactive Graphs
+
+---
+
+## 🖥 Custom CPU Simulator
+
+Interactive CPU simulator supporting custom instruction sets.
+
+### Features
+
+* Register Visualization
+* Memory Viewer
+* Program Execution
+* Instruction Set Design
+
+### Technologies
+
+* Python
+* Qt6
+
+---
+
+## 🚲 Bike Demand Prediction
+
+Machine Learning project forecasting bike demand.
+
+### Features
+
+* Data Cleaning
+* Prediction
+* Power BI Dashboard
+* Visualization
+
+### Technologies
+
+* Python
+* Machine Learning
+* Power BI
+
+---
+
+# 🖼 Project Gallery
+
+* Smart Attendance System
+* CPU Simulator
+* Wi-Fi 6 Architecture
+* Power BI Dashboard
+* Face Recognition
+* Network Simulation
+
+(Add screenshots here.)
+
+---
+
+# 🏅 Certifications
+
+* Google
+* IBM
+* Cisco
+* Microsoft
+* Coursera
+* Great Learning
+* GUVI
+* LinkedIn Learning
+
+(Add certificate links.)
+
+---
+
+# 🏆 Achievements
+
+* Developed an AI-powered Smart Attendance Management System using OpenCV and Computer Vision.
+* Built a CPU Scheduling Simulator with performance analytics.
+* Designed a Secure File Management System using AES-256 Encryption.
+* Developed Machine Learning projects with interactive dashboards.
+* Designed and simulated an Enterprise Wi-Fi 6 Network.
+* Built a Custom CPU Simulator.
+* Participated in multiple national-level hackathons.
+* Completed projects across AI, Computer Vision, Operating Systems, Networking, Databases, and Software Engineering.
+
+---
+
+# 📅 Learning Timeline
+
+### 2024
+
+Started Programming Journey
+
+↓
+
+### 2025
+
+Built Python Projects
+
+↓
+
+Started AI & Computer Vision
+
+↓
+
+### 2026
+
+Advanced C++
+
+↓
+
+Operating Systems
+
+↓
+
+Networking
+
+↓
+
+Hackathons
+
+↓
+
+### Future
+
+Software Engineer • AI Engineer
+
+---
+
+# 📚 Education
+
+**Saveetha School of Engineering (SIMATS)**
+
+Bachelor of Engineering
+
+Computer Science & Engineering
+
+Expected Graduation: **2029**
+
+### Relevant Coursework
+
+* Data Structures
+* Object Oriented Programming
+* Operating Systems
+* Computer Networks
+* DBMS
+* Artificial Intelligence
+* Machine Learning
+* Computer Vision
+
+---
+
+# 💼 Services
+
+I can help with:
+
+* Python Development
+* AI Projects
+* Computer Vision
+* Backend Development
+* SQL Databases
+* Desktop Applications
+* Networking Simulation
+* System Programming
+
+---
+
+# 💬 Testimonials
+
+> "Deepak demonstrates excellent technical curiosity and strong problem-solving skills."
+
+— Professor
+
+> "An excellent teammate with strong debugging and AI development skills."
+
+— Team Member
+
+---
+
+# 📝 Future Blog Topics
+
+* Understanding OpenCV
+* LBPH Face Recognition
+* CPU Scheduling Explained
+* Wi-Fi 6 Architecture
+* Operating Systems Basics
+* Hackathon Experiences
+* Machine Learning Fundamentals
+
+---
+
+# 💻 Coding Profiles
+
+* GitHub
+* LeetCode
+* HackerRank
+* CodeChef
+* Codeforces
+* GeeksforGeeks
+
+(Add your profile links.)
+
+---
+
+# 📊 GitHub Widgets (Embed)
+
+* GitHub Contribution Graph
+* GitHub Stats Card
+* GitHub Streak
+* Top Languages
+* Contribution Snake
+* Activity Graph
+* Visitor Counter
+
+---
+
+# 📬 Contact
+
+**📧 Email**
+
+[deepak3357rajesh@gmail.com](mailto:deepak3357rajesh@gmail.com)
+
+**💼 LinkedIn**
+
+https://www.linkedin.com/in/deepak-rajesh-912092354/
+
+**🐙 GitHub**
+
+https://github.com/Deepak-3357
+
+**📍 Location**
+
+Chennai, Tamil Nadu, India
+
+---
+
+# ❤️ Thank You
+
+Thank you for visiting my portfolio.
+
+If you're looking for someone passionate about Artificial Intelligence, Software Engineering, and solving real-world problems, I'd be happy to connect.
+
+Let's build something amazing together!
+
+---
+
+# 🚀 Future Enhancements
+
+* Aurora Animated Hero
+* Particle Background
+* Glassmorphism UI
+* Typing Animation
+* GitHub Contribution Snake
+* GitHub Activity Graph
+* Visitor Counter
+* Dark / Light Mode
+* Animated Project Cards
+* Interactive Timeline
+* Hover Effects
+* Framer Motion Animations
+* Back-to-Top Button
+* Resume Download
+* AI Chat Assistant
+* Filterable Project Gallery
+* Blog Integration
+* LeetCode & Codeforces Stats
+* Google Calendar Meeting Link
+* Project Demo Videos
+* Achievement Timeline
+* Responsive Mobile Design
+
+---
+
+## ⭐ Motto
+
+> **"Learning continuously, building intelligently, and creating technology that makes a difference."**

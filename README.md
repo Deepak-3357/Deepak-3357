@@ -166,6 +166,8 @@ Saveetha School of Engineering (SIMATS)
 
 💼 **LinkedIn:** https://www.linkedin.com/in/deepak-rajesh-912092354/
 
+🌐 **Portfolio:** https://deepak-rajesh.netlify.app/
+
 ---
 
 <p align="center">

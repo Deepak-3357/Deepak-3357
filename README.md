@@ -65,7 +65,7 @@ appears on your GitHub profile.
 <div align="center">
 
 <img
-  src="./assets/deepak-terminal.svg"
+  src="deepak-terminal.svg"
   width="95%"
   alt="Deepak R Developer Terminal"
 />
@@ -75,7 +75,7 @@ appears on your GitHub profile.
 ---
 
 <div align="center">
-  <img src="./assets/profile-bg.svg" width="92%" height="90" alt="Animated ambient separator"/>
+  <img src="profile-bg.svg" width="92%" height="90" alt="Animated ambient separator"/>
 </div>
 
 ## 📊 Skill Level

@@ -55,11 +55,11 @@
 ┌─────────────────────────────────────────────────────────────────────┐
 │                                                                     │
 │  🎓 B.E. Computer Science & Engineering                            │
-│     Saveetha School of Engineering (SIMATS)                        │
+│     Saveetha School of Engineering (SIMATS)                         │
 │                                                                     │
-│  📍 Chennai, India                                                  │
+│  📍 Chennai, India                                                 │
 │                                                                     │
-│  💻 Building software, systems and intelligent applications         │
+│  💻 Building software, systems and intelligent applications        │
 │                                                                     │
 │  🤖 Exploring Artificial Intelligence & Machine Learning             │
 │                                                                     │

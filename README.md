@@ -50,75 +50,15 @@ appears on your GitHub profile.
 
 ---
 
-## 🖥️ `deepak@developer:~$ tech-stack`
+## 🖥️ Terminal
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────────────────╮
-│  DEEPAK R • DEVELOPER TERMINAL                                     │
-├──────────────────────────────────────────────────────────────────────┤
-│                                                                      │
-│  $ whoami                                                            │
-│  deepak                                                               │
-│                                                                      │
-│  $ skills --list                                                     │
-│                                                                      │
-│  ├── Programming                                                     │
-│  │   ├── Python                                                      │
-│  │   ├── C                                                           │
-│  │   ├── C++                                                         │
-│  │   ├── Java                                                        │
-│  │   └── JavaScript / TypeScript                                    │
-│  │                                                                    │
-│  ├── AI & Computer Vision                                            │
-│  │   ├── OpenCV                                                      │
-│  │   ├── LBPH Face Recognition                                      │
-│  │   ├── Haar Cascade Detection                                     │
-│  │   └── Machine Learning                                           │
-│  │                                                                    │
-│  ├── Web Development                                                 │
-│  │   ├── HTML5 / CSS3                                                │
-│  │   ├── JavaScript / TypeScript                                    │
-│  │   ├── React                                                       │
-│  │   └── Tailwind CSS                                                │
-│  │                                                                    │
-│  ├── Backend & Database                                              │
-│  │   ├── Flask                                                       │
-│  │   ├── Node.js / Express                                           │
-│  │   ├── MySQL                                                       │
-│  │   ├── JDBC                                                        │
-│  │   └── Supabase                                                    │
-│  │                                                                    │
-│  ├── Cloud & Systems                                                 │
-│  │   ├── Cloud Computing                                             │
-│  │   ├── CloudSim Plus                                               │
-│  │   ├── Computer Architecture                                       │
-│  │   └── CPU Simulation                                              │
-│  │                                                                    │
-│  ├── Networking                                                       │
-│  │   ├── Wi-Fi 6                                                     │
-│  │   ├── Cisco Packet Tracer                                         │
-│  │   └── Network Optimization                                        │
-│  │                                                                    │
-│  └── Tools                                                           │
-│      ├── Git / GitHub                                                 │
-│      ├── VS Code                                                      │
-│      ├── Qt 6                                                         │
-│      ├── CMake                                                        │
-│      ├── Maven                                                        │
-│      ├── Power BI                                                     │
-│      ├── Netlify / Vercel                                             │
-│      └── Replit                                                       │
-│                                                                      │
-│  $ status                                                             │
-│  [████████████████████████████████████████] BUILDING                │
-│                                                                      │
-│  $ mission                                                            │
-│  Build → Learn → Experiment → Improve → Repeat                       │
-│                                                                      │
-╰──────────────────────────────────────────────────────────────────────╯
-```
+<img
+  src="./assets/deepak-terminal.svg"
+  width="95%"
+  alt="Deepak R Developer Terminal"
+/>
 
 </div>
 

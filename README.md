@@ -1,133 +1,130 @@
+<!--
+**Deepak-3357/Deepak-3357** is a ✨ special ✨ repository because its `README.md`
+appears on your GitHub profile.
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0066ff,100:00e5ff&height=220&section=header&text=Deepak%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0066ff,100:00e5ff&height=220&section=header&text=Deepak%20R&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-# 👋 Hi, I'm **Deepak R**
+<h1>Hi 👋, I'm Deepak R</h1>
 
-### `CSE Student` • `AI Enthusiast` • `Software Developer`
+<h3>Computer Science Engineering Student | AI Enthusiast | Software Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Python+%7C+C+%7C+C%2B%2B+%7C+Java+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Practical+Software+Systems;Exploring+Cloud+Computing+%26+Computer+Vision" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=AI+Enthusiast;Software+Developer;Machine+Learning+Learner;Computer+Vision+Developer;Cloud+Computing+Explorer;Building+Real-World+Projects" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 <a href="https://deepak-rajesh.netlify.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-00E5FF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00E5FF?style=for-the-badge&labelColor=0d1117"/>
 </a>
-
 <a href="https://github.com/Deepak-3357">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Deepak--3357-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 <a href="https://www.linkedin.com/in/deepak-rajesh-912092354/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.credly.com/">
-<img src="https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Deepak-3357&label=Profile%20Views&color=00e5ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Deepak-3357&label=Profile%20Views&color=00e5ff&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Deepak-3357?label=Followers&style=for-the-badge&color=0066ff"/>
 
 </div>
 
 ---
 
+## 👨‍💻 About Me
+
 <div align="center">
 
-### ⚡ `Code. Build. Learn. Repeat.`
+| | |
+|---|---|
+| 🎓 | B.E. Computer Science Engineering, **Saveetha School of Engineering (SIMATS)** |
+| 📍 | Chennai, India |
+| 🎯 | Interested in AI, Software Development, Machine Learning and Computer Vision |
+| 🌱 | Currently learning Machine Learning, Web Development, and System Design |
+| 💼 | Looking for Software Development and AI Internship opportunities |
 
 </div>
 
-## 🧑‍💻 About Me
+---
+
+## 🖥️ `deepak@developer:~$ tech-stack`
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════════════╗
-║                         DEEPAK R                            ║
-║                  Computer Science Engineer                  ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  🎓 B.E. Computer Science & Engineering                     ║
-║     Saveetha School of Engineering • SIMATS • Chennai       ║
-║                                                              ║
-║  💻 Interested in software development, AI and systems      ║
-║                                                              ║
-║  🧠 Exploring Machine Learning, Computer Vision              ║
-║     Cloud Computing and modern web technologies              ║
-║                                                              ║
-║  🚀 Building practical projects that combine                 ║
-║     programming, algorithms and real-world applications     ║
-║                                                              ║
-║  🎯 Goal: Keep learning, building and solving problems      ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+╭──────────────────────────────────────────────────────────────────────╮
+│  DEEPAK R • DEVELOPER TERMINAL                                     │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  $ whoami                                                            │
+│  deepak                                                               │
+│                                                                      │
+│  $ skills --list                                                     │
+│                                                                      │
+│  ├── Programming                                                     │
+│  │   ├── Python                                                      │
+│  │   ├── C                                                           │
+│  │   ├── C++                                                         │
+│  │   ├── Java                                                        │
+│  │   └── JavaScript / TypeScript                                    │
+│  │                                                                    │
+│  ├── AI & Computer Vision                                            │
+│  │   ├── OpenCV                                                      │
+│  │   ├── LBPH Face Recognition                                      │
+│  │   ├── Haar Cascade Detection                                     │
+│  │   └── Machine Learning                                           │
+│  │                                                                    │
+│  ├── Web Development                                                 │
+│  │   ├── HTML5 / CSS3                                                │
+│  │   ├── JavaScript / TypeScript                                    │
+│  │   ├── React                                                       │
+│  │   └── Tailwind CSS                                                │
+│  │                                                                    │
+│  ├── Backend & Database                                              │
+│  │   ├── Flask                                                       │
+│  │   ├── Node.js / Express                                           │
+│  │   ├── MySQL                                                       │
+│  │   ├── JDBC                                                        │
+│  │   └── Supabase                                                    │
+│  │                                                                    │
+│  ├── Cloud & Systems                                                 │
+│  │   ├── Cloud Computing                                             │
+│  │   ├── CloudSim Plus                                               │
+│  │   ├── Computer Architecture                                       │
+│  │   └── CPU Simulation                                              │
+│  │                                                                    │
+│  ├── Networking                                                       │
+│  │   ├── Wi-Fi 6                                                     │
+│  │   ├── Cisco Packet Tracer                                         │
+│  │   └── Network Optimization                                        │
+│  │                                                                    │
+│  └── Tools                                                           │
+│      ├── Git / GitHub                                                 │
+│      ├── VS Code                                                      │
+│      ├── Qt 6                                                         │
+│      ├── CMake                                                        │
+│      ├── Maven                                                        │
+│      ├── Power BI                                                     │
+│      ├── Netlify / Vercel                                             │
+│      └── Replit                                                       │
+│                                                                      │
+│  $ status                                                             │
+│  [████████████████████████████████████████] BUILDING                │
+│                                                                      │
+│  $ mission                                                            │
+│  Build → Learn → Experiment → Improve → Repeat                       │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
 
-### 🔭 What I'm Working On
-
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 💻 Building **software and system-oriented projects**
-- ☁️ Learning **Cloud Computing & Cloud Simulation**
-- 🌐 Improving my **Web Development** skills
-- 🧠 Strengthening **Data Structures & Algorithms**
-- 👁️ Exploring **Computer Vision**
-
 ---
 
-## 🚀 Current Focus
-
-<div align="center">
-
-| 🧠 Area | 🔥 Focus |
-|:---:|:---|
-| 🤖 AI / ML | Machine Learning & intelligent applications |
-| 👁️ Computer Vision | Image processing & recognition |
-| ☁️ Cloud | Cloud Computing & CloudSim Plus |
-| 💻 Software | Python, C, C++, Java |
-| 🌐 Web | React, TypeScript, JavaScript |
-| 🧮 Algorithms | Data Structures & Algorithmic Problem Solving |
-| 📊 Data | Pandas, NumPy, SciPy & Power BI |
-
-</div>
-
----
-
-## 🛠️ Technology Stack
-
-<div align="center">
-
-### 💻 Programming
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts" />
-
-<br><br>
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
-
-<br><br>
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,supabase" />
-
-<br><br>
-
-### ☁️ Cloud & Development
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,maven,cmake,netlify,vercel" />
-
-</div>
-
----
-
-## 📊 Skill Proficiency
+## 📊 Skill Level
 
 <div align="center">
 
@@ -135,51 +132,39 @@
 
 <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-Advanced-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C%2B%2B-Advanced-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-Advanced-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br><br>
 
 ### 🟡 INTERMEDIATE
 
+<img src="https://img.shields.io/badge/C%2B%2B-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-Intermediate-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-Intermediate-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-Intermediate-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-Intermediate-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-Intermediate-8CAAE6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Cloud%20Computing-Intermediate-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CloudSim%20Plus-Intermediate-00AEEF?style=for-the-badge"/>
 
 <br><br>
 
-### 🔵 LEARNING
+### 🔵 CURRENTLY LEARNING
 
 <img src="https://img.shields.io/badge/Machine%20Learning-Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-Learning-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HTML-Learning-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-Learning-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-> A collection of academic, technical and personal projects focused on software, systems, networking, data and cloud computing.
+### 🤖 Smart Attendance Management System
 
----
+AI-powered attendance system using Face Recognition, OpenCV, and Qt 6.
 
-### 01. 📸 Smart Attendance Management System
+**Tech Stack:** `C++` • `OpenCV` • `Qt 6` • `LBPH`
 
-**Tech:** `C++` `OpenCV` `Qt 6` `LBPH` `Haar Cascade`
-
-A desktop-based attendance system using computer vision for face detection and recognition.
-
-**Highlights**
-
+**Highlights:**
 - Face detection using Haar Cascade
 - Face recognition using LBPH
 - Automated attendance workflow
@@ -188,14 +173,13 @@ A desktop-based attendance system using computer vision for face detection and r
 
 ---
 
-### 02. 📡 Wi-Fi 6 WLAN Architecture
+### 📡 Wi-Fi 6 WLAN Architecture
 
-**Tech:** `Cisco Packet Tracer` `Wi-Fi 6` `Computer Networks`
+Designed and simulated a high-density enterprise Wi-Fi 6 network.
 
-Designed and simulated a Wi-Fi 6 based wireless LAN architecture.
+**Tech Stack:** `Cisco Packet Tracer` • `Wi-Fi 6`
 
-**Highlights**
-
+**Highlights:**
 - Wi-Fi 6 network design
 - Wireless network configuration
 - Network topology simulation
@@ -204,30 +188,28 @@ Designed and simulated a Wi-Fi 6 based wireless LAN architecture.
 
 ---
 
-### 03. 🔐 Secure File Management System
+### 🔒 Secure File Management System
 
-**Tech:** `Java` `MySQL` `JDBC` `AES-256`
+Encrypted file storage with AES-256 encryption and Role-Based Access Control.
 
-A secure file management application combining Java, database management and encryption.
+**Tech Stack:** `Java` • `MySQL` • `JDBC` • `AES-256`
 
-**Highlights**
-
+**Highlights:**
 - AES-256 file encryption
 - Secure file storage
 - MySQL database integration
 - JDBC connectivity
-- Java-based application architecture
+- Role-Based Access Control
 
 ---
 
-### 04. ⚙️ Responsive CPU Task Scheduler
+### ⚙️ Responsive CPU Task Scheduler
 
-**Tech:** `Python` `CPU Scheduling` `Algorithms`
+CPU scheduling simulator comparing FCFS, Round Robin, and Priority Scheduling.
 
-A CPU scheduling application implementing classical scheduling algorithms.
+**Tech Stack:** `Python`
 
-**Highlights**
-
+**Highlights:**
 - FCFS scheduling
 - Round Robin scheduling
 - Priority scheduling
@@ -236,14 +218,13 @@ A CPU scheduling application implementing classical scheduling algorithms.
 
 ---
 
-### 05. 🖥️ Custom CPU Simulator
+### 🖥️ Custom CPU Simulator
 
-**Tech:** `Python` `Qt 6` `Computer Architecture`
+Interactive CPU simulator for instruction execution and visualization.
 
-A custom CPU simulation environment designed around a user-defined instruction set.
+**Tech Stack:** `Python` • `Qt 6`
 
-**Highlights**
-
+**Highlights:**
 - Custom instruction set
 - CPU execution simulation
 - Register and memory operations
@@ -252,14 +233,13 @@ A custom CPU simulation environment designed around a user-defined instruction s
 
 ---
 
-### 06. 🏍️ Bike Demand Prediction
+### 🚲 Bike Demand Prediction
 
-**Tech:** `Python` `Machine Learning` `Power BI`
+Machine Learning model for predicting bike-sharing demand.
 
-A machine-learning based project for analysing and predicting bike demand.
+**Tech Stack:** `Python` • `Machine Learning` • `Power BI`
 
-**Highlights**
-
+**Highlights:**
 - Data preprocessing
 - Machine learning model
 - Demand prediction
@@ -268,16 +248,15 @@ A machine-learning based project for analysing and predicting bike demand.
 
 ---
 
-### 07. ☁️ Green Cloud Framework
+### ☁️ Green Cloud Framework
 
-**Tech:** `Java 17` `Maven` `CloudSim Plus` `SLF4J` `Logback`
+AI-aware cloud simulation framework for VM placement, energy optimization, migration, and SLA monitoring.
 
-🔗 [View Project](https://github.com/Deepak-3357/greencloud-ai)
+**Tech Stack:** `Java 17` • `Maven` • `CloudSim Plus` • `SLF4J` • `Logback`
 
-A cloud simulation framework focused on VM placement, energy consumption, migration and SLA monitoring.
+🔗 **[View Project →](https://github.com/Deepak-3357/greencloud-ai)**
 
-**Highlights**
-
+**Highlights:**
 - Cloud resource simulation
 - VM placement
 - Host scoring
@@ -291,16 +270,15 @@ A cloud simulation framework focused on VM placement, energy consumption, migrat
 
 ---
 
-### 08. 🧭 Smart Navigation & Logistics Management System
+### 🧭 Smart Navigation & Logistics Management System
 
-**Tech:** `C` `Raylib` `CMake` `Data Structures`
+Desktop logistics management system combining data structures, algorithms, and an interactive graphical interface.
 
-🔗 [View Project](https://github.com/Deepak-3357/Smart-Navigation-Logistics-Management-System)
+**Tech Stack:** `C` • `Raylib` • `CMake` • `Data Structures`
 
-A desktop logistics management system combining data structures, algorithms and an interactive graphical interface.
+🔗 **[View Project →](https://github.com/Deepak-3357/Smart-Navigation-Logistics-Management-System)**
 
-**Highlights**
-
+**Highlights:**
 - Arrays
 - Singly Linked List
 - Queue
@@ -317,20 +295,19 @@ A desktop logistics management system combining data structures, algorithms and 
 
 ---
 
-### 09. 📊 ProbStat Analyzer
+### 📊 ProbStat Analyzer
 
-**Tech:** `Python` `Flask` `Pandas` `NumPy` `SciPy` `Plotly`
+Probability and statistical analysis platform supporting multiple probability distributions and interactive analysis.
 
-🔗 [View Project](https://github.com/Deepak-3357/probstat-analyzer)
+**Tech Stack:** `Python` • `Flask` • `Pandas` • `NumPy` • `SciPy` • `Plotly`
 
-A probability and statistical analysis platform supporting multiple probability distributions and interactive analysis.
+🔗 **[View Project →](https://github.com/Deepak-3357/probstat-analyzer)**
 
-**Supported Distributions**
+**Supported Distributions:**
 
 `Normal` • `Uniform` • `Exponential` • `Binomial` • `Poisson` • `Geometric`
 
-**Highlights**
-
+**Highlights:**
 - Dataset upload
 - Data preview and profiling
 - Data cleaning
@@ -346,9 +323,6 @@ A probability and statistical analysis platform supporting multiple probability 
 
 ---
 
-
----
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -356,36 +330,26 @@ A probability and statistical analysis platform supporting multiple probability 
 | 🏅 Achievement | 📌 Details |
 |:---|:---|
 | 💼 **CTO** | Lumenyx Technologies Pvt. Ltd. |
-| 🎓 **CSE Student** | Saveetha School of Engineering • SIMATS |
-| ☁️ **Cloud Projects** | CloudSim Plus based cloud simulation |
-| 🤖 **AI Projects** | Machine Learning & Computer Vision projects |
-| 💻 **Software Projects** | Multiple C, C++, Java & Python applications |
-| 🌐 **Networking** | Wi-Fi 6 & Cisco Packet Tracer projects |
+| 🤖 **AI & Software Projects** | Built multiple AI, software and systems-oriented projects |
+| 👁️ **Computer Vision** | Developed applications using OpenCV, LBPH and Haar Cascade |
+| ☁️ **Cloud Computing** | Developed CloudSim Plus based cloud simulation projects |
+| 🌐 **Networking** | Designed and simulated Wi-Fi 6 network architectures |
+| 🚀 **Technical Events** | Active participant in hackathons and technical events |
 
 </div>
 
 ---
 
-## 🎓 Education
+## 📚 Education
 
 <div align="center">
 
-### 🏛️ Saveetha School of Engineering
+### 🎓 B.E. Computer Science and Engineering
 
-**Saveetha Institute of Medical and Technical Sciences (SIMATS)**  
+**Saveetha School of Engineering (SIMATS)**  
 Chennai, Tamil Nadu
 
-**B.E. Computer Science and Engineering**
-
-`2025 — 2029`
-
-<br>
-
-### 📚 Areas of Study
-
-`Data Structures` • `Computer Networks` • `Cloud Computing`  
-`Programming` • `Digital System Design` • `Probability & Statistics`  
-`Database Systems` • `Software Development`
+**Expected Graduation:** `2029`
 
 </div>
 
@@ -395,110 +359,48 @@ Chennai, Tamil Nadu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deepak-3357&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff&bg_color=0d1117" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deepak-3357&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-3357&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=ffffff&bg_color=0d1117" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-3357&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Deepak-3357&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=ffffff&dates=888888&currStreakNum=ffffff&sideNums=ffffff" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=Deepak-3357&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Deepak-3357/Deepak-3357/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-3357&bg_color=0d1117&color=00e5ff&line=0066ff&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## 💻 Developer Terminal
+## 📫 Connect With Me
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│ deepak@dev-machine:~$ whoami                                │
-│                                                              │
-│ Deepak R                                                     │
-│                                                              │
-│ deepak@dev-machine:~$ skills --list                         │
-│                                                              │
-│ > Python                                                     │
-│ > C / C++                                                    │
-│ > Java                                                       │
-│ > MySQL                                                      │
-│ > Data Structures & Algorithms                               │
-│ > Machine Learning                                           │
-│ > Cloud Computing                                            │
-│ > Web Development                                            │
-│                                                              │
-│ deepak@dev-machine:~$ status                                 │
-│                                                              │
-│ [██████████████████████████████████████] ONLINE             │
-│                                                              │
-│ deepak@dev-machine:~$ mission                                │
-│                                                              │
-│ Build → Learn → Experiment → Improve → Repeat               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🔭 Currently Exploring
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│  🤖 Machine Learning                                    │
-│                                                         │
-│  👁️ Computer Vision                                    │
-│                                                         │
-│  ⚛️ Modern React & TypeScript                           │
-│                                                         │
-│  ☁️ Cloud Computing                                     │
-│                                                         │
-│  🧠 Intelligent Systems                                 │
-│                                                         │
-│  🧮 Advanced Data Structures & Algorithms               │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://deepak-rajesh.netlify.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00E5FF?style=for-the-badge"/>
+<a href="mailto:deepak3357rajesh@gmail.com">
+<img src="https://img.shields.io/badge/Email-deepak3357rajesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br><br>
+
 <a href="https://github.com/Deepak-3357">
-<img src="https://img.shields.io/badge/GitHub-Deepak--3357-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Deepak--3357-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/deepak-rajesh-912092354/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Deepak%20Rajesh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br><br>
-
-<a href="https://www.credly.com/">
-<img src="https://img.shields.io/badge/Credly-View%20Certifications-FF6B35?style=for-the-badge&logo=credly"/>
+<a href="https://deepak-rajesh.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Deepak%20R-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
@@ -507,29 +409,10 @@ Chennai, Tamil Nadu
 
 <div align="center">
 
-### 💬 Developer Quote
-
-> **"The best way to learn technology is to build with it."**
-
-</div>
-
----
-
-<div align="center">
+### ⭐ `"Always learning, always building."`
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0066ff,100:0d1117&height=140&section=footer" width="100%"/>
-
-### `Thanks for visiting my profile! 👋`
-
-**Deepak R**  
-`Computer Science Engineering Student` • `Developer` • `AI Enthusiast`
-
-<br>
-
-<img src="https://img.shields.io/badge/BUILDING-00E5FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/LEARNING-0066FF?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/EXPLORING-00E5FF?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0066ff,100:0d1117&height=130&section=footer" width="100%"/>
 
 </div>

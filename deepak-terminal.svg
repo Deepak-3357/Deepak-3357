@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="980" viewBox="0 0 1400 980" role="img" aria-labelledby="title desc">
+<title id="title">Deepak R Developer Terminal</title>
+<desc id="desc">A realistic dark terminal UI with an ASCII portrait generated from Deepak's supplied image ASCII data, developer information, skills, projects, git status and mission.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#10161f"/><stop offset="1" stop-color="#05080d"/></linearGradient>
+  <linearGradient id="bar" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#171f29"/><stop offset="1" stop-color="#111821"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="16" stdDeviation="24" flood-color="#000" flood-opacity=".58"/></filter>
+  <filter id="glow" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <style>
+      .mono{font-family:"JetBrains Mono","SFMono-Regular",Consolas,"Liberation Mono",monospace}
+      .prompt{fill:#00e5ff;font-weight:700}.cmd{fill:#f8fafc}.out{fill:#cbd5e1}
+      .muted{fill:#64748b}.green{fill:#4ade80}.blue{fill:#60a5fa}.cyan{fill:#67e8f9}
+      .yellow{fill:#facc15}.purple{fill:#c084fc}
+      .cursor{animation:blink 1s steps(1,end) infinite}
+      .scan{animation:scan 8s linear infinite}
+      @keyframes blink{0%,48%{opacity:1}49%,100%{opacity:0}}
+      @keyframes scan{0%{transform:translateY(-100px);opacity:0}10%{opacity:.28}50%{opacity:.08}90%{opacity:.28}100%{transform:translateY(980px);opacity:0}}
+    </style>
+</defs>
+<rect x="18" y="18" width="1364" height="944" rx="16" fill="url(#bg)" stroke="#2b3746" stroke-width="2" filter="url(#shadow)"/>
+<rect x="18" y="18" width="1364" height="58" rx="16" fill="url(#bar)"/><rect x="18" y="48" width="1364" height="28" fill="url(#bar)"/>
+<line x1="18" y1="76" x2="1382" y2="76" stroke="#2b3746"/>
+<circle cx="48" cy="47" r="8" fill="#ff5f57"/><circle cx="74" cy="47" r="8" fill="#febc2e"/><circle cx="100" cy="47" r="8" fill="#28c840"/>
+<text x="700" y="52" text-anchor="middle" class="mono" font-size="15" fill="#a8b3c2">deepak@deepak-dev: ~/portfolio</text>
+<text x="1310" y="52" text-anchor="middle" class="mono" font-size="15" fill="#64748b">—</text><text x="1340" y="52" text-anchor="middle" class="mono" font-size="13" fill="#64748b">□</text><text x="1363" y="52" text-anchor="middle" class="mono" font-size="16" fill="#64748b">×</text>
+<rect x="19" y="77" width="1362" height="884" fill="#05080d"/>
+<text x="48" y="112" class="mono prompt" font-size="15">deepak@deepak-dev</text><text x="205" y="112" class="mono out" font-size="15">:~$</text><text x="245" y="112" class="mono cmd" font-size="15">neofetch</text>
+<line x1="48" y1="132" x2="1350" y2="132" stroke="#1d2a38"/>
+<rect x="42" y="145" width="610" height="640" rx="10" fill="#080c12" stroke="#1a2633"/>
+<text x="64" y="175" class="mono muted" font-size="12">~/profile/ascii-portrait</text>
+<text x="64" y="198" class="mono cyan" font-size="13">PROFILE IMAGE → ASCII</text>
+<text x="55.0" y="158.0" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">.....=++:.....:-*+++++=================+*****##%%%%#######</text>
+<text x="55.0" y="170.8" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">.....==+:.......-======================+******#%%%%#######</text>
+<text x="55.0" y="183.6" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">.....-=+:.......:-======================******#%%%########</text>
+<text x="55.0" y="196.4" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">.....-==:.......:--===------============+*****#%%#########</text>
+<text x="55.0" y="209.2" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">===--=++:.......:--------------=========+*****#%%#########</text>
+<text x="55.0" y="222.0" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">..::-*#*=---:..::------:::-=----========+*****#%%#########</text>
+<text x="55.0" y="234.8" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">.....=++:..::--=+=----:-+#%%%%*=------==+*****#%%#########</text>
+<text x="55.0" y="247.6" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">.....-=+:.......-==---+%%%%%%%%%*-------++++**#%#######**#</text>
+<text x="55.0" y="260.4" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">.....-=+:.......:----=%%#*+++==*%+------=+++++*###########</text>
+<text x="55.0" y="273.2" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">.....-=+:.......:----=%*=-======#*------=+++++*####***====</text>
+<text x="55.0" y="286.0" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">.....-=+:.......:-----*+---==++==#------=+++++*###**++=--=</text>
+<text x="55.0" y="298.8" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">.....==+:.......:-----=+=**==**+=+=-----=++===+##*++=+*+==</text>
+<text x="55.0" y="311.6" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">.....==+:.......:------=-==-=======-----=+==--=**+===+=+++</text>
+<text x="55.0" y="324.4" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">.....-=+:......::---------+=++*+==------====--=*++====:-=+</text>
+<text x="55.0" y="337.2" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">:....==+:..:::::::--------+=====+-------===---=*++++++---=</text>
+<text x="55.0" y="350.0" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">::...==+:.::::.::::-------===++*+-------===---=**++++*++--</text>
+<text x="55.0" y="362.8" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">::...==+:.::::.:::::-----==+***++-*=----===---=*******==++</text>
+<text x="55.0" y="375.6" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">::...==+:.:::::::::::=+**=*==+++=:%%#*+=====--=******#*+-=</text>
+<text x="55.0" y="388.4" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">::...==+:..:::::::=+#%###:+*====:=%%%%%%%#*+-==******##**=</text>
+<text x="55.0" y="401.2" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">-:...==+:....::+##%%%%##*=-+==---*%%%%%%%%%%%+=******#****</text>
+<text x="55.0" y="414.0" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">-:...==+-::..:-%###%%%##*:::--::-%%%%%%%%%%%%#+*#****#####</text>
+<text x="55.0" y="426.8" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">-:...==+-:::::+%#####%##+:::.:::=%%%%%%%%%%%%%*###########</text>
+<text x="55.0" y="439.6" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">-:.:-==+:.::::#%########+:::...:#%%%%%%%%%%%%%%###########</text>
+<text x="55.0" y="452.4" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">=::=-==+==-::-##%#######*:::..:-%%%%%%%%%%%%%%%%##########</text>
+<text x="55.0" y="465.2" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">++=+=====::::=##%#######*:::..:+%%%%%%%%%%%%%%%%##########</text>
+<text x="55.0" y="478.0" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">-=++=+++:::::+##%########-::.::%%%%%%%%%%%%%%%%%##########</text>
+<text x="55.0" y="490.8" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">+=++++++-::::##%%%#####%#+::.:+%%%%%%%%%%%%%%%%%%######**#</text>
+<text x="55.0" y="503.6" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">+******+-:::-#%%%%#####%##::.-%%%%%%%%%%%%%%%%%%%#########</text>
+<text x="55.0" y="516.4" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">*+*##**+-:::=##%%%%####%%#=::+%%%%%%%%%%%%%%%%%%%#########</text>
+<text x="55.0" y="529.2" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">***#**++=--:*%%%%%%####%%%#:-%%%%%%%%%%%%*%%%%%%%######***</text>
+<text x="55.0" y="542.0" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">-=++**++-:::#%%%%%+#####%%%++%%%%%%%%%%%#=#%%%%%%%####****</text>
+<text x="55.0" y="554.8" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">-==+++++-::+%%%%%%=*#####%%#%%%%%%%%%%%%#=*%%%%%%%####****</text>
+<text x="55.0" y="567.6" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">---+=+++:.:#%%%%%%=%######%%%%%%%%%%%%%%%+*%%%%%%%####***#</text>
+<text x="55.0" y="580.4" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">::-+++++:::*%%%%%#=%#######%%%%%%%%%%%%%%+=%%%%%%%####*+*#</text>
+<text x="55.0" y="593.2" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">::=*++++-:-*%%%%%**%######%%%%%%%%%%%%%%%#*%%%%%%#++++++*#</text>
+<text x="55.0" y="606.0" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">=++#*+++-:-*#%%%%%#######%%%%%%%%%%%%%%%%%#%%%%%%+====++*#</text>
+<text x="55.0" y="618.8" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">*###%%%#---*#%%%%%######%%%*%%%%%%%%%%%%%%%%%%%%%*++++++++</text>
+<text x="55.0" y="631.6" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">*###%%%#---##%%%%###%##%%##-%%%%%%%%%%%%%%%%%%%%%##%%%####</text>
+<text x="55.0" y="644.4" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">*###%%%*-::=%%%%%%#%##%%%#*-#%%%%%%%%%%%%%%%%%%%###%%%%##%</text>
+<text x="55.0" y="657.2" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">*###%%#+:::+%%%%%%###%%%#%%%%%%%%%%%%%%%%%%%%%%####%%%%%%%</text>
+<text x="55.0" y="670.0" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">*###%%#+--:-###%%%##%%%##%%%%%%%%%%%%%%%%%%%%%%####%%%%%%%</text>
+<text x="55.0" y="682.8" class="mono" font-size="12" fill="#b7f7ff" filter="url(#glow)" xml:space="preserve">*###%%*:....*###%%#%%%##%%%%%%%%%%%%%%%%*#%%%%#####%%%%%%%</text>
+<rect x="680" y="145" width="680" height="640" rx="10" fill="#080c12" stroke="#1a2633"/>
+<text x="710" y="180" class="mono prompt" font-size="15">deepak@deepak-dev</text>
+<text x="710" y="204" class="mono muted" font-size="12">────────────────────────────────────────────────────────</text>
+<text x="710" y="232" class="mono white" font-size="13" fill="#f8fafc">OS        :</text><text x="850" y="232" class="mono out" font-size="13">Developer Mode</text>
+<text x="710" y="258" class="mono white" font-size="13" fill="#f8fafc">Host      :</text><text x="850" y="258" class="mono out" font-size="13">Deepak's Portfolio</text>
+<text x="710" y="284" class="mono white" font-size="13" fill="#f8fafc">Kernel    :</text><text x="850" y="284" class="mono out" font-size="13">CSE-2029</text>
+<text x="710" y="310" class="mono white" font-size="13" fill="#f8fafc">Shell     :</text><text x="850" y="310" class="mono out" font-size="13">bash</text>
+<text x="710" y="336" class="mono white" font-size="13" fill="#f8fafc">Terminal  :</text><text x="850" y="336" class="mono out" font-size="13">GitHub README</text>
+<text x="710" y="376" class="mono prompt" font-size="14">deepak@deepak-dev:~$ skills</text>
+<text x="710" y="405" class="mono cyan" font-size="12">Python</text><text x="850" y="405" class="mono green" font-size="12">████████████████████████████████</text>
+<text x="710" y="431" class="mono cyan" font-size="12">C / C++</text><text x="850" y="431" class="mono green" font-size="12">██████████████████████████████░░</text>
+<text x="710" y="457" class="mono cyan" font-size="12">Java</text><text x="850" y="457" class="mono green" font-size="12">██████████████████████████░░░░░░</text>
+<text x="710" y="483" class="mono cyan" font-size="12">MySQL</text><text x="850" y="483" class="mono green" font-size="12">████████████████████████████░░░░</text>
+<text x="710" y="509" class="mono cyan" font-size="12">Machine Learning</text><text x="850" y="509" class="mono green" font-size="12">██████████████████░░░░░░░░░░░░</text>
+<text x="710" y="552" class="mono prompt" font-size="14">deepak@deepak-dev:~$ ls ~/projects</text>
+<text x="710" y="579" class="mono blue" font-size="12">📁 smart-attendance/</text><text x="930" y="579" class="mono blue" font-size="12">📁 green-cloud/</text>
+<text x="710" y="603" class="mono blue" font-size="12">📁 cpu-simulator/</text><text x="930" y="603" class="mono blue" font-size="12">📁 probstat-analyzer/</text>
+<text x="710" y="627" class="mono blue" font-size="12">📁 smart-logistics/</text><text x="930" y="627" class="mono blue" font-size="12">📁 wifi6-network/</text>
+<text x="710" y="651" class="mono blue" font-size="12">📁 secure-file-manager/</text><text x="930" y="651" class="mono blue" font-size="12">📁 bike-demand/</text>
+<text x="710" y="694" class="mono prompt" font-size="14">deepak@deepak-dev:~$ systemctl status deepak</text>
+<text x="710" y="721" class="mono green" font-size="12">● deepak.service - Developer Profile</text>
+<text x="735" y="745" class="mono out" font-size="12">Loaded:</text><text x="815" y="745" class="mono green" font-size="12">loaded</text><text x="900" y="745" class="mono out" font-size="12">Active:</text><text x="970" y="745" class="mono green" font-size="12">active (running)</text>
+<text x="735" y="769" class="mono out" font-size="12">Status:</text><text x="815" y="769" class="mono yellow" font-size="12">"Building something new..."</text>
+<rect x="42" y="805" width="1318" height="125" rx="10" fill="#070b10" stroke="#1a2633"/>
+<text x="62" y="835" class="mono prompt" font-size="14">deepak@deepak-dev:~$ git status</text>
+<text x="62" y="861" class="mono out" font-size="12">On branch </text><text x="145" y="861" class="mono purple" font-size="12">main</text>
+<text x="62" y="884" class="mono green" font-size="12">✓ Working tree clean</text>
+<text x="420" y="835" class="mono prompt" font-size="14">deepak@deepak-dev:~$ echo $MISSION</text>
+<text x="420" y="861" class="mono green" font-size="12">Build → Learn → Experiment → Improve → Repeat</text>
+<text x="420" y="899" class="mono prompt" font-size="14">deepak@deepak-dev:~$</text>
+<rect x="580" y="885" width="9" height="18" rx="1" fill="#00e5ff" class="cursor" filter="url(#glow)"/>
+<rect x="19" y="77" width="1362" height="3" fill="#00e5ff" opacity=".12" class="scan"/>
+</svg>

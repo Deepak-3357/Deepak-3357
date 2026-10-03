@@ -16,10 +16,10 @@ appears on your GitHub profile.
 <br><br>
 
 <a href="https://deepak-rajesh.netlify.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00E5FF?style=for-the-badge&labelColor=111c36"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-00E5FF?style=for-the-badge&labelColor=0d1117"/>
 </a>
 <a href="https://github.com/Deepak-3357">
-<img src="https://img.shields.io/badge/GitHub-Deepak--3357-172554?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Deepak--3357-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/deepak-rajesh-912092354/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -32,17 +32,7 @@ appears on your GitHub profile.
 
 </div>
 
-<div align="center">
-  <img src="./assets/profile-bg.svg" width="100%" alt="Animated Deepak developer background"/>
-</div>
-
 ---
-
-<div align="center">
-
-> ✦ **Ambient UI:** navy/indigo glass surfaces, cyan/violet glow, subtle particles and animated visual layers.
-
-</div>
 
 ## 👨‍💻 About Me
 
@@ -73,10 +63,6 @@ appears on your GitHub profile.
 </div>
 
 ---
-
-<div align="center">
-  <img src="profile-bg.svg" width="92%" height="90" alt="Animated ambient separator"/>
-</div>
 
 ## 📊 Skill Level
 
@@ -109,10 +95,6 @@ appears on your GitHub profile.
 </div>
 
 ---
-
-<div align="center">
-  <img src="./assets/profile-bg.svg" width="92%" height="90" alt="Animated ambient separator"/>
-</div>
 
 ## 🚀 Projects
 
@@ -281,10 +263,6 @@ Probability and statistical analysis platform supporting multiple probability di
 
 ---
 
-<div align="center">
-  <img src="./assets/profile-bg.svg" width="92%" height="90" alt="Animated ambient separator"/>
-</div>
-
 ## 🏆 Achievements
 
 <div align="center">
@@ -302,10 +280,6 @@ Probability and statistical analysis platform supporting multiple probability di
 
 ---
 
-<div align="center">
-  <img src="./assets/profile-bg.svg" width="92%" height="90" alt="Animated ambient separator"/>
-</div>
-
 ## 📚 Education
 
 <div align="center">
@@ -321,30 +295,22 @@ Chennai, Tamil Nadu
 
 ---
 
-<div align="center">
-  <img src="./assets/profile-bg.svg" width="92%" height="90" alt="Animated ambient separator"/>
-</div>
-
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deepak-3357&show_icons=true&theme=tokyonight&bg_color=111827&title_color=67e8f9&icon_color=8b5cf6&text_color=dbeafe&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Deepak-3357&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-3357&layout=compact&theme=tokyonight&bg_color=111827&title_color=67e8f9&icon_color=8b5cf6&text_color=dbeafe&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepak-3357&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Deepak-3357&theme=tokyonight&bg_color=111827&title_color=67e8f9&icon_color=8b5cf6&text_color=dbeafe&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Deepak-3357&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 ---
-
-<div align="center">
-  <img src="./assets/profile-bg.svg" width="92%" height="90" alt="Animated ambient separator"/>
-</div>
 
 ## 📊 Contribution Activity
 
@@ -372,10 +338,6 @@ Chennai, Tamil Nadu
 
 ---
 
-<div align="center">
-  <img src="./assets/profile-bg.svg" width="92%" height="90" alt="Animated ambient separator"/>
-</div>
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -387,7 +349,7 @@ Chennai, Tamil Nadu
 <br><br>
 
 <a href="https://github.com/Deepak-3357">
-<img src="https://img.shields.io/badge/GitHub-Deepak--3357-172554?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Deepak--3357-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/deepak-rajesh-912092354/">

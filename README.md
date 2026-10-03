@@ -370,16 +370,17 @@ Chennai, Tamil Nadu
 </div>
 
 ---
-
 ## 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-3357&bg_color=0d1117&color=00e5ff&line=0066ff&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Deepak-3357&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=Deepak%20R's%20Contribution%20Graph" width="95%"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Deepak-3357/Deepak-3357/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
 
 </div>
-
-
 ---
 
 ## 📫 Connect With Me

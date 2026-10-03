@@ -55,7 +55,7 @@ appears on your GitHub profile.
 <div align="center">
 
 <img
-  src="./assets/deepak-terminal.svg"
+  src="deepak-terminal.svg"
   width="95%"
   alt="Deepak R Developer Terminal"
 />

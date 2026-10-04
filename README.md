@@ -53,15 +53,11 @@ appears on your GitHub profile.
 
 <div align="center">
 
-<a href="https://github.com/Deepak-3357">
-
 <img
-  src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Deepak-3357&theme=tokyonight&headerStyle=mac"
+  src="./assets/github-terminal.svg"
   width="95%"
-  alt="Deepak R GitHub Terminal Statistics"
+  alt="Deepak R GitHub Terminal"
 />
-
-</a>
 
 </div>
 ---

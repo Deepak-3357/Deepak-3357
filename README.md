@@ -49,7 +49,22 @@ appears on your GitHub profile.
 </div>
 
 ---
+## 🖥️ GitHub Terminal
 
+<div align="center">
+
+<a href="https://github.com/Deepak-3357">
+
+<img
+  src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Deepak-3357&theme=tokyonight&headerStyle=mac"
+  width="95%"
+  alt="Deepak R GitHub Terminal Statistics"
+/>
+
+</a>
+
+</div>
+---
 ## 🖥️ Terminal
 
 <div align="center">

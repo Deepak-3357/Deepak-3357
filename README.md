@@ -54,7 +54,7 @@ appears on your GitHub profile.
 <div align="center">
 
 <img
-  src="./assets/github-terminal.svg"
+  src=".assets/github-terminal.svg"
   width="95%"
   alt="Deepak R GitHub Terminal"
 />

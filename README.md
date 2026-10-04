@@ -48,17 +48,13 @@ appears on your GitHub profile.
 
 </div>
 
----
-## 🖥️ GitHub Terminal
 
 <div align="center">
-
-<img
-  src=".assets/github-terminal.svg"
-  width="95%"
-  alt="Deepak R GitHub Terminal"
-/>
-
+  <img
+    src="./assets/github-terminal.svg"
+    width="95%"
+    alt="Deepak R GitHub Terminal"
+  />
 </div>
 ---
 ## 📊 Skill Level

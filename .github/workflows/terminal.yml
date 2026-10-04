@@ -1,0 +1,43 @@
+name: Generate GitHub Terminal
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+
+  workflow_dispatch:
+
+  push:
+    paths:
+      - "scripts/generate-terminal.py"
+      - ".github/workflows/terminal.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate-terminal:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate terminal
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python scripts/generate-terminal.py
+
+      - name: Commit generated terminal
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/github-terminal.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update GitHub terminal"
+            git push
+          fi

@@ -56,7 +56,9 @@ appears on your GitHub profile.
     alt="Deepak R GitHub Terminal"
   />
 </div>
+
 ---
+
 ## 📊 Skill Level
 
 <div align="center">

@@ -65,20 +65,6 @@ appears on your GitHub profile.
 
 </div>
 ---
-## 🖥️ Terminal
-
-<div align="center">
-
-<img
-  src="deepak-terminal.svg"
-  width="95%"
-  alt="Deepak R Developer Terminal"
-/>
-
-</div>
-
----
-
 ## 📊 Skill Level
 
 <div align="center">
